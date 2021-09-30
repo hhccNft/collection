@@ -1,0 +1,40 @@
+{
+  "name": "Cleopatra",
+  "description": "Cleopatra VII Philopator (69 b.C. – 10 Aug. 30 b.C.) was the last active ruler of the Ptolemaic Kingdom of Egypt. As a member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. After the death of Cleopatra, Egypt became a province of the Roman Empire.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYd2sGuMTYTjfF1JG4gjWcCGqYpweCLt3hMVYgeQyP8PE",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "value": "Classical Antiquity"
+    },
+    {
+      "value": "Leader"
+    },
+    {
+      "value": "Egypt"
+    },
+    {
+      "value": "Rome"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Myriam El Assil"
+    }
+  ]
+}

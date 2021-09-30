@@ -1,0 +1,34 @@
+{
+  "name": "Amundsen's Expedition",
+  "description": "The first expedition to reach the geographic South Pole was led by the Norwegian explorer Roald Amundsen. He and four others arrived at the pole on 14 December 1911, five weeks ahead of a British party led by Robert Falcon Scott as part of the Terra Nova Expedition.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYM1dWqwkbgcyqdSYjgcswQ3UKtX682C2d1ptJJP4iHK7",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Main Event"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "value": "XX Century"
+    },
+    {
+      "value": "Explorers"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Paolo Beghini"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Founding of Rome",
+  "description": "The tale of the Founding of Rome is recounted in traditional stories. The most famous of all myths, is the story of Romulus and Remus, twins who were suckled by a she-wolf as infants. Another account, set earlier in time, claims that the Roman people are descended from Trojan War hero Aeneas.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVdzk67r7FT1syZvK3B82zQXGdixnxeKhKrQLqi4Y9MWf",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Main Event"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "value": "Classical Antiquity"
+    },
+    {
+      "value": "Rome"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Roberto La Forgia"
+    }
+  ]
+}

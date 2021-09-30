@@ -1,0 +1,34 @@
+{
+  "name": "The Son of Man",
+  "description": "Painting by the Belgian surrealist painter René Magritte who painted it as a self-portrait. The painting consists of a man in an overcoat and a bowler hat standing in front of a low wall, beyond which are the sea and a cloudy sky. The man's face is largely obscured by a hovering green apple.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUb4TErcg6FVoyi7SAudxiMNg67rp6XnYqp5oNDNdAM81",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Artwork"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "value": "Art"
+    },
+    {
+      "value": "Surrealism"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Manolo Saviantoni"
+    }
+  ]
+}
