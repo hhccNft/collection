@@ -1,0 +1,34 @@
+{
+  "name": "French Revolution",
+  "description": "This Main Event was driven by the failure of the Ancien Régime to respond to increasing social and economic inequality. The result was a crisis Louis XVI proved unable to manage.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmU856snB2Dpfgchq12czqVnoEB1htWuXXfaTuFskKz9Sf",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Main Event"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "value": "XVIII Century"
+    },
+    {
+      "value": "France"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Elisa Fabris"
+    }
+  ]
+}

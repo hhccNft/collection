@@ -1,0 +1,34 @@
+{
+  "name": "Lady with an Ermine",
+  "description": "Painting widely attributed to Italian Renaissance artist Leonardo da Vinci. The portrait's subject is Cecilia Gallerani, at a time when she was the mistress of Ludovico Sforza, Duke of Milan. It is one of only four surviving portraits of women painted by Leonardo.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWVRvrxyjWVhnrVX8DwLvPpELKRQcbNfmZ57zC8CP9Pwj",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Artwork"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "value": "Art"
+    },
+    {
+      "value": "Renaissance"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Manolo Saviantoni"
+    }
+  ]
+}

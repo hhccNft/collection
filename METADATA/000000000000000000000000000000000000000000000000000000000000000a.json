@@ -1,0 +1,31 @@
+{
+  "name": "Modern Times",
+  "description": "American silent comedy film written and directed by Charlie Chaplin in which his iconic Little Tramp character struggles to survive in the modern, industrialized world. The film is a comment on the desperate employment and financial conditions many people faced during the Great Depression.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWZbvD1JGqgVUx589oVVtkxcQycbx2yFofs5XrDkWGt3c",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Artwork"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "value": "Cinema"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Lorenzo Matteucci"
+    }
+  ]
+}

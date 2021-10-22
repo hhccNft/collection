@@ -1,0 +1,37 @@
+{
+  "name": "Apollo 11",
+  "description": "Apollo 11 was the spaceflight that first landed humans on the Moon. Commander Neil Armstrong and lunar module pilot Buzz Aldrin formed the American crew that landed the Apollo Lunar Module Eagle on July 20, 1969, at 20:17 UTC (14:17 CST). Key Legendary: Hold this card in your wallet to unlock the possibility to purchase the Locked Legendary First Moon Landing card (Seed 18 / 21).",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdXfscAkaqMzkxDsgKUYAPNzzYH1HQ5NtU1Bhtzti4tnw",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Invention"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "value": "XX Century"
+    },
+    {
+      "value": "Technology"
+    },
+    {
+      "value": "Space"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Gary Levesque"
+    }
+  ]
+}

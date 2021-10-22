@@ -1,0 +1,37 @@
+{
+  "name": "First Moon Landing",
+  "description": "During the Apollo 11 press conference, the first question was: Which one of you gentlemen will be the first man to step onto the lunar surface? Commander Neil Armstrong became the first person to step onto the Moon on July 21 at 02:56 UTC. Locked Legendary: This card is unlocked and become purchasable only by owning a Apollo 11 card in your wallet. Once obtained, it can be traded normally.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUi84ve9oUumjSzfDHDxd8scvRmFpzAQALmcTMVwxLsvz",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Main Event"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "value": "XX Century"
+    },
+    {
+      "value": "Space"
+    },
+    {
+      "value": "USA"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Gary Levesque"
+    }
+  ]
+}

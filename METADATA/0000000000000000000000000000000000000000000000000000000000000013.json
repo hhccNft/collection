@@ -1,0 +1,37 @@
+{
+  "name": "Louis XIV",
+  "description": "Also known as Louis the Great or the Sun King , he was King of France from 14 May 1643 until his death in 1715. His reign of 72 years and 110 days is the longest recorded of any monarch of a sovereign country in European history. Louis XIV's France was emblematic of the age of absolutism in Europe.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmf9x7XBn64J7tB9dP7Nw5aeDhtaxHnaNze9KtWd8DPsFJ",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "value": "XVII Century"
+    },
+    {
+      "value": "Leader"
+    },
+    {
+      "value": "France"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Elisa Fabris"
+    }
+  ]
+}
