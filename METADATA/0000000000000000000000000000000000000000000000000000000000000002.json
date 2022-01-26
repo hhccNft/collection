@@ -1,0 +1,31 @@
+{
+  "name": "Aretha Franklyn",
+  "description": "Aretha Louise Franklin (Mar. 25, 1942 – Aug. 16, 2018) was an American singer, songwriter, actress, pianist, and civil rights activist. She began her career as a child singing Gospel at New Bethel Baptist Church in Detroit, Michigan, where her father was a minister.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmfAxJPRBoPiFwbJBChEd77zf1HqnW6QdcAmkqHdvKVb15",
+  "external_url": "https://app.humanhistory.cards/",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "value": "Music"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Loris De Marco"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Bitcoin",
+  "description": "Bitcoin is the first cryptocurrency invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. Its implementation was released in 2009 as open-source software. There are only 21 million bitcoins that can be mined in total. Collector’s Legendary: This card can only be purchased by holding the entire Seed collection (n.1 - 21, in any edition) in your wallet. Once obtained, it can be traded normally.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmfAxJPRBoPiFwbJBChEd77zf1HqnW6QdcAmkqHdvKVb15",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Invention"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "value": "Technology"
+    },
+    {
+      "value": "Cryptocurrency"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Paolo Beghini"
+    }
+  ]
+}
